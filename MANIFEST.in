@@ -1,1 +1,3 @@
-recursive-include humanoid_bench
+graft humanoid_bench/assets
+graft humanoid_bench/envs
+graft humanoid_bench/mjx
